@@ -1,0 +1,2 @@
+/Users/tylercollins/Documents/GitHub/8310-assignment-3/FashionMNIST/raw/train-images-idx3-ubyte filter=lfs diff=lfs merge=lfs -text
+/Users/tylercollins/Documents/GitHub/8310-assignment-3/model.pth filter=lfs diff=lfs merge=lfs -text
